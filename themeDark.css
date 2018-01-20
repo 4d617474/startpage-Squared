@@ -1,0 +1,17 @@
+body
+{
+	background-color:#202020;
+}
+#Main
+{
+	background-color:#404040;
+}
+#search
+{
+	background-color:#505050;
+	color:white;
+}
+.button
+{
+	filter:invert(69%);
+}
